@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "marca":"ford",
+        "modelo":"focus",
+        "precio":22000
+    },
+
+    {
+        "id":2,
+        "marca":"ford",
+        "modelo":"fiesta",
+        "precio":18000
+    },
+
+    {
+        "id":3,
+        "marca":"peugeot",
+        "modelo":"2008",
+        "precio":19500
+    },
+
+    {
+        "id":4,
+        "marca":"peugeot",
+        "modelo":"3008",
+        "precio":24000
+    }
+]
